@@ -31,4 +31,4 @@
 # Ignore the Models Builder models out of date flag
 **/ood.flag
 
-.vs/*
+.vs/HighlyDeveloped/v15/Server
