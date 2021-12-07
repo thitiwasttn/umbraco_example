@@ -8,15 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c1175-e1ab-436b-810a-5f4fdee24d4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Main.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Main.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +20,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/721ea26d77614b7384577dc7390e9a815e00/6/HtmlHelperExtensions.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="21wpvF8oEu8cLXyCVpPlDacRdIO" />
   <component name="ProjectViewState">
@@ -70,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638862245737</updated>
-      <workItem from="1638862284644" duration="1088000" />
+      <workItem from="1638862284644" duration="2238000" />
     </task>
     <servers />
   </component>

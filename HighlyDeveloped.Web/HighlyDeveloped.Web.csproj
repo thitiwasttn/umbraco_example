@@ -319,6 +319,7 @@
     <Content Include="config\logviewer.searches.config.js" />
     <Content Include="css\CookieConsent.css" />
     <Content Include="Global.asax" />
+    <Content Include="images\hero.jpg" />
     <Content Include="scripts\CookieConsent.js" />
     <Content Include="Views\About.cshtml" />
     <Content Include="Views\Home.cshtml" />
