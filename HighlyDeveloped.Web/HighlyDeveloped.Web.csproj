@@ -328,6 +328,7 @@
     <Content Include="Views\Partials\Call to Action.cshtml" />
     <Content Include="Views\Partials\Footer.cshtml" />
     <Content Include="Views\Partials\Hero.cshtml" />
+    <Content Include="Views\Partials\Lasted News.cshtml" />
     <Content Include="Views\Partials\NavBar.cshtml" />
     <Content Include="Views\SiteSettings.cshtml" />
     <Content Include="Web.config" />
