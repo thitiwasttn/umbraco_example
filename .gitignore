@@ -33,4 +33,4 @@
 
 .vs/HighlyDeveloped/v15/Server
 
-.idea/*
+.idea/**
