@@ -317,6 +317,11 @@
     <Content Include="config\Lang\zh-CN.user.xml" />
     <Content Include="config\logviewer.searches.config.js" />
     <Content Include="Global.asax" />
+    <Content Include="Views\About.cshtml" />
+    <Content Include="Views\Home.cshtml" />
+    <Content Include="Views\Main.cshtml" />
+    <Content Include="Views\PageContent.cshtml" />
+    <Content Include="Views\SiteSettings.cshtml" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
