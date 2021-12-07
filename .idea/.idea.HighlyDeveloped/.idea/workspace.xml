@@ -9,9 +9,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0e5c1175-e1ab-436b-810a-5f4fdee24d4f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/HighlyDeveloped/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/HighlyDeveloped/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.generated.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.generated.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.hash" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.hash" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/HighlyDeveloped.Web.csproj.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Main.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Main.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638862245737</updated>
-      <workItem from="1638862284644" duration="2238000" />
+      <workItem from="1638862284644" duration="3659000" />
     </task>
     <servers />
   </component>

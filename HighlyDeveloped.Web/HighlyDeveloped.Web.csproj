@@ -325,6 +325,9 @@
     <Content Include="Views\Home.cshtml" />
     <Content Include="Views\Main.cshtml" />
     <Content Include="Views\PageContent.cshtml" />
+    <Content Include="Views\Partials\Call to Action.cshtml" />
+    <Content Include="Views\Partials\Footer.cshtml" />
+    <Content Include="Views\Partials\Hero.cshtml" />
     <Content Include="Views\Partials\NavBar.cshtml" />
     <Content Include="Views\SiteSettings.cshtml" />
     <Content Include="Web.config" />
