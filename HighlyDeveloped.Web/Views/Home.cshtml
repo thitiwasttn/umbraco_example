@@ -1,4 +1,4 @@
-﻿@using Umbraco.Core.PropertyEditors.ValueConverters
+﻿
 @inherits Umbraco.Web.Mvc.UmbracoViewPage
 @{
     Layout = "Main.cshtml";
@@ -11,52 +11,4 @@
 @Html.Partial("Call to Action")
 
 
-<!--Letest News Artickes-->
-@{
-    var selection = Umbraco.Content(Guid.Parse("b6325308-588e-4e13-92c1-c39261cf3e85"))
-        .ChildrenOfType("newArticle")
-        .Where(x => x.IsVisible())
-        .OrderByDescending(x => x.CreateDate)
-        .Take(3);
-}
-
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <div class="card-deck">
-                @foreach (var item in selection)
-                {
-                    var imageCropper = item.Value<ImageCropperValue>("articleImage");
-                    var thumUrl = imageCropper.Src + imageCropper.GetCropUrl("Thumb");
-                    <div class="card" style="width: 18rem;">
-                        <img class="card-img-top" src="@thumUrl" alt="Card image cap">
-                        <div class="card-body">
-                            <h5 class="card-title">@item.Name</h5>
-                            <p class="card-text">@item.Value("leadIn")</p>
-                            @*<a href="@item.Url" class="btn btn-primary">Go somewhere</a>*@
-                        </div>
-
-                        <div class="card-footer d-flex justify-content-between">
-                            <div>
-                                <a href="@item.Url">Read more</a>
-                            </div>
-                            <div class="social-icons text-muted">
-                                <a href="https://twitter.com/intent/tweet?text=@item.Value("leadIn")&amp;url=@item.Url(null, UrlMode.Absolute)"
-                                   class="ml-2 mr-2">
-                                    <i class="fab fa-twitter"></i>
-                                </a>
-
-                                <a href="https://www.facebook.com/sharer.php?u=@item.Url(null, UrlMode.Absolute)"
-                                   class="ml-2 mr-2">
-                                    <i class="fab fa-facebook"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                }
-
-            </div>
-        </div>
-    </div>
-
-</div>
+@Html.Partial("Lasted News")
