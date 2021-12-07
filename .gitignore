@@ -32,3 +32,5 @@
 **/ood.flag
 
 .vs/HighlyDeveloped/v15/Server
+
+.idea/*

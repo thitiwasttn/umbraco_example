@@ -8,10 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c1175-e1ab-436b-810a-5f4fdee24d4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.generated.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.generated.cs" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/models.generated.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638862245737</updated>
-      <workItem from="1638862284644" duration="5140000" />
+      <workItem from="1638862284644" duration="5330000" />
     </task>
     <servers />
   </component>
