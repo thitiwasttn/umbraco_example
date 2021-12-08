@@ -8,7 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e5c1175-e1ab-436b-810a-5f4fdee24d4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HighlyDeveloped/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/App_Data/Models/all.dll.path" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/Views/Home.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/bin/HighlyDeveloped.Web.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.dll" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/HighlyDeveloped.Web/obj/Debug/HighlyDeveloped.Web.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638862245737</updated>
-      <workItem from="1638862284644" duration="5330000" />
+      <workItem from="1638862284644" duration="7060000" />
+      <workItem from="1638931825244" duration="1226000" />
     </task>
     <servers />
   </component>
@@ -73,7 +80,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
