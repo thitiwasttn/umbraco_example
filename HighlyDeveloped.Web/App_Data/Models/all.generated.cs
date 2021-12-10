@@ -6,7 +6,7 @@ using  Umbraco.Core.Models;
 using  Umbraco.Core.Models.PublishedContent;
 using  Umbraco.Web;
 using  Umbraco.ModelsBuilder.Embedded;
-[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "b0b6642af65bc86d")]
+[assembly:ModelsBuilderAssembly(PureLive = true, SourceHash = "9b9dea69bfa37679")]
 [assembly:System.Reflection.AssemblyVersion("0.0.0.1")]
 
 
@@ -228,6 +228,34 @@ namespace Umbraco.Web.PublishedModels
 		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder.Embedded", "8.17.1")]
 		[ImplementPropertyType("testMode")]
 		public virtual bool TestMode => this.Value<bool>("testMode");
+
+		///<summary>
+		/// Twitter Access Token
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder.Embedded", "8.17.1")]
+		[ImplementPropertyType("twitterAccessToken")]
+		public virtual string TwitterAccessToken => this.Value<string>("twitterAccessToken");
+
+		///<summary>
+		/// Twitter Access Token Secret
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder.Embedded", "8.17.1")]
+		[ImplementPropertyType("twitterAccessTokenSecret")]
+		public virtual string TwitterAccessTokenSecret => this.Value<string>("twitterAccessTokenSecret");
+
+		///<summary>
+		/// Twitter Consumer API Key
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder.Embedded", "8.17.1")]
+		[ImplementPropertyType("twitterConsumerAPIKey")]
+		public virtual string TwitterConsumerApikey => this.Value<string>("twitterConsumerAPIKey");
+
+		///<summary>
+		/// Twitter Consumer Secret API Key
+		///</summary>
+		[global::System.CodeDom.Compiler.GeneratedCodeAttribute("Umbraco.ModelsBuilder.Embedded", "8.17.1")]
+		[ImplementPropertyType("twitterConsumerSecretAPIKey")]
+		public virtual string TwitterConsumerSecretApikey => this.Value<string>("twitterConsumerSecretAPIKey");
 	}
 
 	// Mixin Content Type with alias "callToAction"

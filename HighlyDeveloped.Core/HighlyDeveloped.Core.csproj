@@ -270,7 +270,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Controllers\TwitterController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\TwitterViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

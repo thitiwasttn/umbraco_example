@@ -224,3 +224,6 @@ E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\obj\Debug\HighlyDe
 E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\obj\Debug\HighlyDeveloped.Web.csproj.CopyComplete
 E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\obj\Debug\HighlyDeveloped.Web.dll
 E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\obj\Debug\HighlyDeveloped.Web.pdb
+E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\bin\HighlyDeveloped.Core.dll
+E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\bin\HighlyDeveloped.Core.pdb
+E:\temp\umbraco\udemy_sql\HighlyDeveloped\HighlyDeveloped.Web\bin\HighlyDeveloped.Core.dll.config

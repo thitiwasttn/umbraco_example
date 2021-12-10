@@ -1,5 +1,4 @@
-﻿
-@inherits Umbraco.Web.Mvc.UmbracoViewPage
+﻿@inherits Umbraco.Web.Mvc.UmbracoViewPage
 @{
     Layout = "Main.cshtml";
 }
@@ -23,7 +22,8 @@
 <div class="container">
     <div class="row">
         <div class="col">
-            @Umbraco.RenderMacro("GetLatestTweets", new {twitterHandle="Thairath_Ent"})
+            @Html.Action("GetTweets", "Twitter", new {twitterHandle = "Thairath_Ent"})
+            @*@Umbraco.RenderMacro("GetLatestTweets", new {twitterHandle = "Thairath_Ent"})*@
         </div>
     </div>
 </div>
